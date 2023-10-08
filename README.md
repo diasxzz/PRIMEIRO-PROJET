@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online]([https://github.com/diasxzz/PRIMEIRO-PROJET](https://diasxzz.github.io/PRIMEIRO-PROJET/))
+- [Acesse o projeto finalizado, online]([https://github.com/diasxzz/PRIMEIRO-PROJET](https://diasxzz.github.io/PRIMEIRO-PROJET/)
 
 ## 🔖 Layout
 
